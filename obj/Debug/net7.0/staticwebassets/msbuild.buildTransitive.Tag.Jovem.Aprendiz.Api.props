@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Tag.Jovem.Aprendiz.Api.props" />
+</Project>
